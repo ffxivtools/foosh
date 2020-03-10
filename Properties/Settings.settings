@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Foosh.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="enumPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ffxiv_dx11.exe+0x1CAF5E0</Value>
+    </Setting>
+    <Setting Name="cmbCastKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">31</Value>
+    </Setting>
+    <Setting Name="cmbHookKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="windowName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FINAL FANTASY XIV</Value>
+    </Setting>
+    <Setting Name="cmbReleaseKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">34</Value>
+    </Setting>
+    <Setting Name="isRelease" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="catchSmall" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="catchMedium" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="catchLarge" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="minDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="maxDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="playerObjectSig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00 00 2C 00 01 04 ? 01 00 01 00 00 ? ? ? 00 00 00 00 00 00 00 00 00</Value>
+    </Setting>
+    <Setting Name="playerStartOffset" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-136</Value>
+    </Setting>
+    <Setting Name="currentGPOffset" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6314</Value>
+    </Setting>
+    <Setting Name="isChum" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="cmbChumKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="chumGPCost" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
