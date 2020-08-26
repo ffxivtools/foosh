@@ -1,1 +1,1 @@
-ffxiv_dx11.exe+0x1CB1660
+ffxiv_dx11.exe+0x1D55860
